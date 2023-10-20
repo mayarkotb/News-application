@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../basketball_points_counter"
+		},
+		{
+			"path": "../../business_card"
+		},
+		{
+			"path": "../../toku_app"
+		},
+		{
+			"path": "../../tunes_player_app"
+		}
+	],
+	"settings": {}
+}
